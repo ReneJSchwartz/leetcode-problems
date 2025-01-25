@@ -1,1 +1,2 @@
 # leetcode-problems
+I mainly do HackerRank and Advent of Code problems but decided to upload some of my LeetCode answer submissions since I didn't have much public code available for TypeScript. I've worked 5 months using TS plus I have studied it independently for some time. That is not to say that I'd be great at it but it is funny to think that it might be my second most used language while third is probably Python.
